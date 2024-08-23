@@ -14,10 +14,10 @@ local FlinxLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGB(25, 0, 0),
-			Second = Color3.fromRGB(50, 0, 0),
-			Stroke = Color3.fromRGB(45, 45, 45),
-			Divider = Color3.fromRGB(45, 45, 45),
+			Main = Color3.fromRGB(5, 5, 25),
+			Second = Color3.fromRGB(5, 5, 35),
+			Stroke = Color3.fromRGB(10, 10, 45),
+			Divider = Color3.fromRGB(10, 10, 45),
 			Text = Color3.fromRGB(240, 240, 240),
 			TextDark = Color3.fromRGB(150, 150, 150)
 		}
